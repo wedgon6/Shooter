@@ -110,6 +110,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
+        - 2.1.0
         compatible:
         - 1.17.7
         - 2.0.0-preview.6
@@ -226,6 +227,7 @@ m_PackageAssets:
         - 3.0.21
         - 3.0.22
         - 3.0.24
+        - 3.0.25
         compatible:
         - 1.0.2
         - 1.0.6
@@ -265,7 +267,8 @@ m_PackageAssets:
         - 3.0.21
         - 3.0.22
         - 3.0.24
-        verified: 3.0.24
+        - 3.0.25
+        verified: 3.0.25
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -338,6 +341,7 @@ m_PackageAssets:
         - 2.0.17
         - 2.0.18
         - 2.0.20
+        - 2.0.21
         compatible:
         - 1.0.2
         - 1.0.3
@@ -361,7 +365,8 @@ m_PackageAssets:
         - 2.0.17
         - 2.0.18
         - 2.0.20
-        verified: 2.0.20
+        - 2.0.21
+        verified: 2.0.21
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9

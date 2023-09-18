@@ -62,8 +62,10 @@
     <Compile Include="Assets\JMO Assets\WarFX\Spawn System\CFX_SpawnSystem.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Scripts\WFX_BulletHoleDecal.cs" />
+    <Compile Include="Assets\Skripts\Effect\ShellSound.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_Demo_RandomDir.cs" />
-    <Compile Include="Assets\Skripts\AbstratHealth.cs" />
+    <Compile Include="Assets\Skripts\Effect\ShootEffect.cs" />
+    <Compile Include="Assets\Skripts\BaseClasses\AbstratHealth.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\WFX_Demo_Wall.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Scripts\CFX_AutoDestructShuriken.cs" />
     <Compile Include="Assets\Skripts\RigidbodyPlayer.cs" />
@@ -71,17 +73,21 @@
     <Compile Include="Assets\Skripts\Shotgun.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\WFX_Demo_RandomDir.cs" />
+    <Compile Include="Assets\Skripts\Effect\CameraShake.cs" />
     <Compile Include="Assets\Skripts\LearningSriots\RigitdbodyGun.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Scripts\WFX_LightFlicker.cs" />
     <Compile Include="Assets\Skripts\Projectale.cs" />
+    <Compile Include="Assets\IgniteCoders\Simple Water Shader\Info\Scripts\Readme.cs" />
     <Compile Include="Assets\Skripts\LearningSriots\DragTest.cs" />
+    <Compile Include="Assets\Skripts\Effect\WaterSlesher.cs" />
     <Compile Include="Assets\Skripts\LearningSriots\RiditbiodyCentreMass.cs" />
     <Compile Include="Assets\Skripts\Player.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_Demo_Translate.cs" />
+    <Compile Include="Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
     <Compile Include="Assets\Skripts\LearningSriots\PlacesMover.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\WFX_Demo_New.cs" />
     <Compile Include="Assets\Skripts\Brecable.cs" />
-    <Compile Include="Assets\Skripts\ShootEffect.cs" />
+    <Compile Include="Assets\Skripts\Utils\Sweep.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\JMO Assets\WarFX\Shaders\WFX_S Multiply Soft.shader" />
